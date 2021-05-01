@@ -6,9 +6,11 @@ This application is a backend solution for a simple blogging platform in asp.net
 - They are generated from the title of the blog post
 
 **Route**
-*localhost:port/api/posts*  -for blog posts.
-*localhost:port/api/tags*  -for a list of tags.
-*localhost:port/api/posts?tag=exampletag*  -for filtering posts by tag
+
+ - *localhost:port/api/posts*  -for blog posts.   
+ - *localhost:port/api/tags*  -for a list of tags.
+ - *localhost:port/api/posts?tag=exampletag*  -for filtering posts by tag
+
 
 **Instructions:**
 
